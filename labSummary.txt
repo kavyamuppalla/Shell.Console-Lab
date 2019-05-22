@@ -1,0 +1,19 @@
+Section : Creating files with touch
+Created myfile1, myfile2, myfile3.txt, myfile4.txt, myfile5.txt under dev directory
+
+Section : Editors
+Created myfile6 under dev directory and edited as per the instructions
+
+Section : Creating directories
+Created kavya under dev directory
+Created dir1 and dir2 under kavya directory
+
+Section : Copyind, moving and renaming
+copied myfile6 from dev directory to kavya directory and moved it to mdir directroy
+
+Section : Destroying files and directories
+Created and deleted files and directories
+
+Section Art of Redirection
+logged the output of find command to corefiles.log under kavya directory
+
